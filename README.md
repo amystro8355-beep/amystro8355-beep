@@ -9,7 +9,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/Website-Visit-success?style=for-the-badge)](https://mohammadhussein.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/mohammed-hussein-wp/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:contact@mohammadhussein.com)
 
 </div>
